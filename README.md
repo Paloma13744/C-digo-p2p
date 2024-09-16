@@ -11,7 +11,8 @@ Enviar e receber mensagens.
 Armazenar mensagens localmente.
 Listar mensagens armazenadas.
 
-**Servidor Central**
+**Servidor Central:**
+
 O servidor central é responsável apenas por listar os clientes conectados à rede. 
 Ele: Não participa diretamente da troca de mensagens entre os clientes.
      Apenas gerencia a listagem de clientes conectados.

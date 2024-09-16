@@ -34,11 +34,10 @@ servidor_central.py: Código para a implementação do servidor central, respons
 
 # Requisitos 🛠️
 Para executar este projeto, você precisará ter o Python instalado em seu sistema. Além disso, as seguintes bibliotecas devem ser instaladas:
-
-'''bash
+   ```bash
 pip install socket
 
-# Como Executar 🔧
+## Como Executar 🔧
 Inicie o Servidor Central:
 **python servidor_central.py**
 

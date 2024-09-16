@@ -38,19 +38,15 @@ Para executar este projeto, você precisará ter o Python instalado em seu siste
 bash
 Copiar código
 pip install socket
-Como Executar 🔧
+
+# Como Executar 🔧
 Inicie o Servidor Central:
+**python servidor_central.py**
 
-bash
-Copiar código
-python servidor_central.py
 Inicie os Clientes:
-
 Em cada cliente, execute:
+**python cliente_servidor_p2p.py**
 
-bash
-Copiar código
-python cliente_servidor_p2p.py
 Os clientes se conectarão ao servidor central para listar outros clientes conectados e poderão se comunicar diretamente entre si.
 
 # Uso 💬
